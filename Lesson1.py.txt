@@ -1,1 +1,3 @@
 print("cum spune Natalia- cu Doamne ajuta");
+Totusi asta ajuta 
+URAA!!
