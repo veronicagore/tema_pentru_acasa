@@ -1,0 +1,1 @@
+print("cum spune Natalia- cu Doamne ajuta");
